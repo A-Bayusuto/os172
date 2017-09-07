@@ -1,0 +1,2 @@
+made directories and put dummy files in them and then pushed them, deleted dummy from week00, made file1 in sandbox
+#A Bayusuto Wanengkirtyo
