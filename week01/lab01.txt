@@ -21,3 +21,4 @@ drwxr-xr-x  2 a.bayusuto StafCS 4096 Sep  7 12:12 week09
 drwxr-xr-x  2 a.bayusuto StafCS 4096 Sep  7 12:13 week10
 drwxr-xr-x  2 a.bayusuto StafCS 4096 Sep  7 12:20 xtra
 /home/fasilkom/mahasiswa/a/a.bayusuto/os172/week01
+Today is 07 Sep 2017 at 13:04:19
